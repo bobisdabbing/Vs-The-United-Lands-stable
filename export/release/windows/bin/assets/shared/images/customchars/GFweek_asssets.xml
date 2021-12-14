@@ -1,0 +1,84 @@
+﻿<TextureAtlas imagePath="GFweek_asssets.png">
+	<SubTexture name="GF Cheer0000" x="0" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0001" x="703" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0002" x="1406" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0003" x="2109" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0004" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0005" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0006" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0007" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0008" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0009" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0010" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0011" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0012" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0013" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0014" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0015" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0016" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0017" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0018" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0019" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Cheer0020" x="2812" y="0" w="703" h="657"/>
+	<SubTexture name="GF Down Note0000" x="3515" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0001" x="4218" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0002" x="4921" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0003" x="5624" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0004" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0005" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0006" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0007" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0008" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0009" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0010" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0011" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0012" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0013" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0014" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0015" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0016" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0017" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0018" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF Down Note0019" x="6327" y="0" w="703" h="637"/>
+	<SubTexture name="GF FEAR 0000" x="7030" y="0" w="699" h="640"/>
+	<SubTexture name="GF FEAR 0001" x="0" y="657" w="699" h="640"/>
+	<SubTexture name="GF FEAR 0002" x="699" y="657" w="699" h="640"/>
+	<SubTexture name="GF FEAR 0003" x="1398" y="657" w="699" h="640"/>
+	<SubTexture name="GF Right Note0000" x="2097" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0001" x="2800" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0002" x="3503" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0003" x="4206" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0004" x="4909" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0005" x="5612" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0006" x="6315" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0007" x="6315" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0008" x="7018" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0009" x="7018" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0010" x="7018" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0011" x="7018" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0012" x="7018" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0013" x="7018" y="657" w="703" h="637"/>
+	<SubTexture name="GF Right Note0014" x="7018" y="657" w="703" h="637"/>
+	<SubTexture name="GF Up Note0000" x="0" y="1297" w="703" h="661"/>
+	<SubTexture name="GF Up Note0001" x="703" y="1297" w="703" h="661"/>
+	<SubTexture name="GF Up Note0002" x="1406" y="1297" w="703" h="661"/>
+	<SubTexture name="GF Up Note0003" x="2109" y="1297" w="703" h="661"/>
+	<SubTexture name="GF Up Note0004" x="2812" y="1297" w="703" h="661"/>
+	<SubTexture name="GF Up Note0005" x="2812" y="1297" w="703" h="661"/>
+	<SubTexture name="GF Up Note0006" x="2812" y="1297" w="703" h="661"/>
+	<SubTexture name="GF left note0000" x="3515" y="1297" w="703" h="638"/>
+	<SubTexture name="GF left note0001" x="4218" y="1297" w="703" h="638"/>
+	<SubTexture name="GF left note0002" x="4921" y="1297" w="703" h="638"/>
+	<SubTexture name="GF left note0003" x="5624" y="1297" w="703" h="638"/>
+	<SubTexture name="GF left note0004" x="6327" y="1297" w="703" h="638"/>
+	<SubTexture name="GF left note0005" x="7030" y="1297" w="703" h="638"/>
+	<SubTexture name="GF left note0006" x="0" y="1958" w="703" h="638"/>
+	<SubTexture name="GF left note0007" x="0" y="1958" w="703" h="638"/>
+	<SubTexture name="GF left note0008" x="703" y="1958" w="703" h="638"/>
+	<SubTexture name="GF left note0009" x="703" y="1958" w="703" h="638"/>
+	<SubTexture name="GF left note0010" x="703" y="1958" w="703" h="638"/>
+	<SubTexture name="GF left note0011" x="703" y="1958" w="703" h="638"/>
+	<SubTexture name="GF left note0012" x="703" y="1958" w="703" h="638"/>
+	<SubTexture name="GF left note0013" x="703" y="1958" w="703" h="638"/>
+	<SubTexture name="GF left note0014" x="703" y="1958" w="703" h="638"/>
+</TextureAtlas>

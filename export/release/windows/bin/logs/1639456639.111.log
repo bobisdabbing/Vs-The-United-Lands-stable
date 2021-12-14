@@ -1,0 +1,46 @@
+0:00.00 [INFO ] (Debug/onInitProgram#203): Debug logging initialized. Hello, developer.
+0:00.00 [INFO ] (Debug/onInitProgram#208): This is a RELEASE build.
+0:00.00 [INFO ] (Debug/onInitProgram#210): HaxeFlixel version: HaxeFlixel 4.10.0
+0:00.01 [INFO ] (Debug/onInitProgram#211): Friday Night Funkin' version: 0.2.7.1
+0:00.01 [INFO ] (Debug/onInitProgram#212): KadeEngine version: 1.8
+0:00.02 [INFO ] (ModCore/initialize#27): Initializing ModCore...
+0:00.02 [INFO ] (ModCore/getModIds#95): Scanning the mods folder...
+0:00.03 [INFO ] (ModCore/getModIds#97): Found 1 mods when scanning.
+0:00.07 [INFO ] (ModCore/loadModsById#37): Attempting to load 1 mods...
+0:00.07 [WARN ] Could not find mod icon file: "mods/introMod/_polymod_icon.png"
+0:00.08 [INFO ]  user specified CUSTOM
+0:00.08 [TRACE] (ModCoreBackend/new#167): Initialized custom asset loader backend.
+0:00.08 [WARN ] (ModCoreBackend/clearCache#173): Custom asset cache has been cleared.
+0:00.09 [ERROR] Preparing to load mod mods/introMod
+0:00.09 [ERROR] Done loading mod mods/introMod
+0:00.10 [TRACE] (ModCoreBackend/exists#178): Call to ModCoreBackend: exists(_polymod_pack.txt)
+0:00.10 [INFO ] (ModCore/loadModsById#67): Mod loading complete. We loaded 1 / 1 mods.
+0:00.11 [TRACE] (ModCore/loadModsById#70):   * Intro Mod v1.0.0 [introMod]
+0:00.11 [INFO ] (ModCore/loadModsById#73): Installed mods have replaced 1 images.
+0:00.12 [TRACE] (ModCore/loadModsById#75):   * images/KadeEngineLogo.png
+0:00.12 [INFO ] (ModCore/loadModsById#78): Installed mods have replaced 0 text files.
+0:00.13 [INFO ] (ModCore/loadModsById#83): Installed mods have replaced 0 music files.
+0:00.14 [INFO ] (ModCore/loadModsById#88): Installed mods have replaced 0 sound files.
+0:00.15 [TRACE] (TitleState/create#56): We loaded 0 assets into the default library
+0:04.09 [INFO ] (TitleState/skipIntro#446): Skipping intro...
+0:15.27 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-easy
+0:15.31 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial
+0:15.35 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-hard
+0:15.83 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-easy
+0:15.90 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up
+0:15.94 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-hard
+0:27.49 [INFO ] (FreeplayState/loadSongInFreePlay#494): Loading song heads up from week 1 into Free Play...
+0:28.24 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+0:28.25 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+0:32.10 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+0:32.11 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+0:32.18 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+0:32.18 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:32.19 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:32.19 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:32.20 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:32.20 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:32.21 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:32.21 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:32.22 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:33.62 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit

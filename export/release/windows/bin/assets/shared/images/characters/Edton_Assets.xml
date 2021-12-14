@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Edton_assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="2812" y="0" width="721" height="1058"/>
+	<SubTexture name="idle0000" x="631" y="0" width="727" height="1136"/>
+	<SubTexture name="idle0001" x="1358" y="0" width="727" height="1136"/>
+	<SubTexture name="idle0002" x="2085" y="0" width="727" height="1136"/>
+	<SubTexture name="left0000" x="3533" y="0" width="550" height="1123"/>
+	<SubTexture name="right0000" x="0" y="0" width="631" height="1087"/>
+	<SubTexture name="up0000" x="0" y="1136" width="550" height="1130"/>
+</TextureAtlas>

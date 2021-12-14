@@ -1,0 +1,367 @@
+0:00.00 [INFO ] (Debug/onInitProgram#203): Debug logging initialized. Hello, developer.
+0:00.00 [INFO ] (Debug/onInitProgram#208): This is a RELEASE build.
+0:00.00 [INFO ] (Debug/onInitProgram#210): HaxeFlixel version: HaxeFlixel 4.10.0
+0:00.00 [INFO ] (Debug/onInitProgram#211): Friday Night Funkin' version: 0.2.7.1
+0:00.00 [INFO ] (Debug/onInitProgram#212): KadeEngine version: 1.8
+0:00.00 [INFO ] (ModCore/initialize#27): Initializing ModCore...
+0:00.00 [INFO ] (ModCore/getModIds#95): Scanning the mods folder...
+0:00.08 [INFO ] (ModCore/getModIds#97): Found 1 mods when scanning.
+0:00.10 [INFO ] (ModCore/loadModsById#37): Attempting to load 1 mods...
+0:00.10 [WARN ] Could not find mod icon file: "mods/introMod/_polymod_icon.png"
+0:00.10 [INFO ]  user specified CUSTOM
+0:00.10 [TRACE] (ModCoreBackend/new#167): Initialized custom asset loader backend.
+0:00.10 [WARN ] (ModCoreBackend/clearCache#173): Custom asset cache has been cleared.
+0:00.10 [ERROR] Preparing to load mod mods/introMod
+0:00.10 [ERROR] Done loading mod mods/introMod
+0:00.10 [TRACE] (ModCoreBackend/exists#178): Call to ModCoreBackend: exists(_polymod_pack.txt)
+0:00.10 [INFO ] (ModCore/loadModsById#67): Mod loading complete. We loaded 1 / 1 mods.
+0:00.10 [TRACE] (ModCore/loadModsById#70):   * Intro Mod v1.0.0 [introMod]
+0:00.10 [INFO ] (ModCore/loadModsById#73): Installed mods have replaced 1 images.
+0:00.10 [TRACE] (ModCore/loadModsById#75):   * images/KadeEngineLogo.png
+0:00.10 [INFO ] (ModCore/loadModsById#78): Installed mods have replaced 0 text files.
+0:00.10 [INFO ] (ModCore/loadModsById#83): Installed mods have replaced 0 music files.
+0:00.10 [INFO ] (ModCore/loadModsById#88): Installed mods have replaced 0 sound files.
+0:00.14 [TRACE] (TitleState/create#56): We loaded 0 assets into the default library
+0:07.34 [INFO ] (TitleState/skipIntro#446): Skipping intro...
+0:19.33 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-easy
+0:19.69 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial
+0:19.78 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-hard
+0:24.06 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-easy
+0:24.36 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up
+0:24.45 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-hard
+0:35.91 [INFO ] (FreeplayState/loadSongInFreePlay#494): Loading song heads up from week 1 into Free Play...
+0:36.77 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+0:36.96 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+0:48.60 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+0:49.08 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+0:49.42 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+0:50.33 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:50.37 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:50.37 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:50.37 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:50.37 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:50.37 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:50.37 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:50.37 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:58.80 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+2:16.68 [TRACE] (PlayState/closeSubState#1910): pause thingyt
+2:16.80 [TRACE] (OptionsMenu/switchCat#319): Changed cat: 0
+2:18.06 [TRACE] (OptionsMenu/switchCat#319): Changed cat: 1
+2:20.19 [TRACE] (OptionsMenu/switchCat#319): Changed cat: 0
+2:21.15 [TRACE] (OptionsMenu/selectOption#334): Changed opt: 0
+2:21.15 [TRACE] (OptionsMenu/selectOption#336): Bounds: 114,640
+2:21.98 [TRACE] (OptionsMenu/selectOption#334): Changed opt: 1
+2:21.98 [TRACE] (OptionsMenu/selectOption#336): Bounds: 114,640
+2:22.18 [TRACE] (OptionsMenu/selectOption#334): Changed opt: 2
+2:22.18 [TRACE] (OptionsMenu/selectOption#336): Bounds: 114,640
+2:22.36 [TRACE] (OptionsMenu/selectOption#334): Changed opt: 3
+2:22.36 [TRACE] (OptionsMenu/selectOption#336): Bounds: 114,640
+2:22.57 [TRACE] (OptionsMenu/selectOption#334): Changed opt: 4
+2:22.57 [TRACE] (OptionsMenu/selectOption#336): Bounds: 114,640
+2:22.75 [TRACE] (OptionsMenu/selectOption#334): Changed opt: 5
+2:22.75 [TRACE] (OptionsMenu/selectOption#336): Bounds: 114,640
+2:23.24 [TRACE] (OptionsMenu/update#571): New text: > BotPlay: < off >
+2:24.44 [TRACE] (PlayState/closeSubState#1910): pause thingyt
+2:24.44 [TRACE] (PlayState/closeSubState#1913): pause thingyt
+2:25.91 [TRACE] (PauseSubState/destroy#261): destroying music for pauseeta
+2:31.09 [TRACE] (PauseSubState/destroy#261): destroying music for pauseeta
+2:34.73 [TRACE] (PauseSubState/destroy#261): destroying music for pauseeta
+2:35.39 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+2:35.39 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+2:40.09 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+2:40.18 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+2:40.35 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+2:40.44 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:40.45 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:40.45 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:40.45 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:40.45 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:40.45 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:40.45 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:40.45 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:40.51 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+3:30.68 [TRACE] (PauseSubState/destroy#261): destroying music for pauseeta
+3:31.34 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+3:31.34 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+3:37.43 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+3:37.49 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+3:37.63 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+3:37.71 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+3:37.85 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+3:37.85 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+3:37.85 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+3:37.85 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+3:37.85 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+3:37.85 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+3:37.85 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+3:38.10 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+5:36.03 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+5:36.03 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+5:40.92 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+5:40.92 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+5:41.06 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+5:41.06 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:41.06 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:41.06 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:41.06 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:41.06 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:41.06 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:41.06 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:41.06 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:41.10 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+7:49.12 [TRACE] (PlayState/update#2085): we're fuckin ending the song 
+8:02.20 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+8:02.20 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+8:08.17 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+8:08.35 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+8:08.51 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+8:09.73 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:09.81 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:09.81 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:09.81 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:09.81 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:09.81 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:09.81 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:09.81 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:10.43 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+10:21.63 [TRACE] (PlayState/update#2085): we're fuckin ending the song 
+10:41.89 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+10:41.89 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+10:46.63 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+10:46.67 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+10:46.88 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+10:46.88 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+10:46.88 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+10:46.88 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+10:46.88 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+10:46.88 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+10:46.88 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+10:46.88 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+10:46.88 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+10:46.93 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+10:57.29 [TRACE] (ChartingState/create#161): false
+10:57.29 [TRACE] (ChartingState/create#163): FlxAtlasFrames
+10:57.29 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+10:57.52 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-easy
+10:57.70 [TRACE] (ChartingState/addGrid#522): 640
+10:57.70 [TRACE] (ChartingState/addGrid#526): height of 0
+10:57.70 [TRACE] (ChartingState/create#261): goin
+10:57.70 [TRACE] (ChartingState/create#302): STRUCTS: 2
+10:57.77 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+10:57.81 [TRACE] (ChartingState/poggers#1788): FUCK YOU BITCH FUCKER CUCK SUCK BITCH 98
+10:57.81 [TRACE] (ChartingState/create#308): Song length in MS: 155204
+10:57.81 [TRACE] (ChartingState/create#326): LENGTH IN STEPS 1552 | LENGTH IN BEATS 388 | SECTIONS: 98
+10:57.81 [TRACE] (ChartingState/create#337): TARGET 155204
+11:00.43 [TRACE] (ChartingState/create#363): 154880
+11:02.67 [TRACE] (ChartingState/addEventsUI#849): 150
+11:02.67 [TRACE] (ChartingState/addEventsUI#864): bruh
+11:02.67 [TRACE] (ChartingState/addEventsUI#868): Event
+11:02.67 [TRACE] (ChartingState/addEventsUI#870): bruh
+11:02.67 [TRACE] (ChartingState/addEventsUI#872): bruh
+11:02.67 [TRACE] (ChartingState/addEventsUI#874): bruh
+11:02.67 [TRACE] (ChartingState/addEventsUI#876): bruh
+11:02.67 [TRACE] (ChartingState/addEventsUI#878): bruh
+11:02.67 [TRACE] (ChartingState/addEventsUI#880): bruh
+11:02.69 [TRACE] (ChartingState/addEventsUI#926): bruh
+11:02.69 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+11:02.78 [TRACE] (ChartingState/create#426): bruh
+11:02.78 [TRACE] (ChartingState/create#440): bruh
+11:02.78 [TRACE] (ChartingState/create#445): bruh
+11:02.78 [TRACE] (ChartingState/create#447): create
+11:04.12 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+11:04.12 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+11:04.93 [TRACE] (ChartingState/goToSection#1310): Going too 1600 | 1 | Which is at 4
+11:05.11 [TRACE] (ChartingState/goToSection#1310): Going too 3200 | 2 | Which is at 8
+11:05.30 [TRACE] (ChartingState/goToSection#1310): Going too 4800 | 3 | Which is at 12
+11:05.46 [TRACE] (ChartingState/goToSection#1310): Going too 6400 | 4 | Which is at 16
+11:05.65 [TRACE] (ChartingState/goToSection#1310): Going too 8000 | 5 | Which is at 20
+11:05.84 [TRACE] (ChartingState/goToSection#1310): Going too 9600 | 6 | Which is at 24
+11:05.99 [TRACE] (ChartingState/goToSection#1310): Going too 11200 | 7 | Which is at 28
+11:06.14 [TRACE] (ChartingState/goToSection#1310): Going too 12800 | 8 | Which is at 32
+11:06.33 [TRACE] (ChartingState/goToSection#1310): Going too 14400 | 9 | Which is at 36
+11:06.56 [TRACE] (ChartingState/goToSection#1310): Going too 16000 | 10 | Which is at 40
+11:06.75 [TRACE] (ChartingState/goToSection#1310): Going too 17600 | 11 | Which is at 44
+11:07.04 [TRACE] (ChartingState/goToSection#1310): Going too 19200 | 12 | Which is at 48
+11:07.25 [TRACE] (ChartingState/goToSection#1310): Going too 20800 | 13 | Which is at 52
+11:07.52 [TRACE] (ChartingState/goToSection#1310): Going too 22400 | 14 | Which is at 56
+11:07.83 [TRACE] (ChartingState/goToSection#1310): Going too 24000 | 15 | Which is at 60
+11:08.00 [TRACE] (ChartingState/goToSection#1310): Going too 25600 | 16 | Which is at 64
+11:08.31 [TRACE] (ChartingState/goToSection#1310): Going too 27200 | 17 | Which is at 68
+11:08.55 [TRACE] (ChartingState/goToSection#1310): Going too 28800 | 18 | Which is at 72
+11:10.58 [TRACE] (ChartingState/goToSection#1310): Going too 1600 | 1 | Which is at 4
+11:10.79 [TRACE] (ChartingState/goToSection#1310): Going too 3200 | 2 | Which is at 8
+11:10.96 [TRACE] (ChartingState/goToSection#1310): Going too 4800 | 3 | Which is at 12
+11:11.12 [TRACE] (ChartingState/goToSection#1310): Going too 6400 | 4 | Which is at 16
+11:11.25 [TRACE] (ChartingState/goToSection#1310): Going too 8000 | 5 | Which is at 20
+11:11.40 [TRACE] (ChartingState/goToSection#1310): Going too 9600 | 6 | Which is at 24
+11:11.55 [TRACE] (ChartingState/goToSection#1310): Going too 11200 | 7 | Which is at 28
+11:11.84 [TRACE] (ChartingState/goToSection#1310): Going too 12800 | 8 | Which is at 32
+11:12.03 [TRACE] (ChartingState/goToSection#1310): Going too 14400 | 9 | Which is at 36
+11:12.24 [TRACE] (ChartingState/goToSection#1310): Going too 16000 | 10 | Which is at 40
+11:12.41 [TRACE] (ChartingState/goToSection#1310): Going too 17600 | 11 | Which is at 44
+11:12.59 [TRACE] (ChartingState/goToSection#1310): Going too 19200 | 12 | Which is at 48
+11:12.78 [TRACE] (ChartingState/goToSection#1310): Going too 20800 | 13 | Which is at 52
+11:12.95 [TRACE] (ChartingState/goToSection#1310): Going too 22400 | 14 | Which is at 56
+11:13.12 [TRACE] (ChartingState/goToSection#1310): Going too 24000 | 15 | Which is at 60
+11:13.30 [TRACE] (ChartingState/goToSection#1310): Going too 25600 | 16 | Which is at 64
+11:13.49 [TRACE] (ChartingState/goToSection#1310): Going too 27200 | 17 | Which is at 68
+11:13.68 [TRACE] (ChartingState/goToSection#1310): Going too 28800 | 18 | Which is at 72
+11:13.86 [TRACE] (ChartingState/goToSection#1310): Going too 30400 | 19 | Which is at 76
+11:14.07 [TRACE] (ChartingState/goToSection#1310): Going too 32000 | 20 | Which is at 80
+11:14.26 [TRACE] (ChartingState/goToSection#1310): Going too 33600 | 21 | Which is at 84
+11:14.59 [TRACE] (ChartingState/goToSection#1310): Going too 32000 | 20 | Which is at 80
+11:14.79 [TRACE] (ChartingState/goToSection#1310): Going too 30400 | 19 | Which is at 76
+11:15.15 [TRACE] (ChartingState/goToSection#1310): Going too 28800 | 18 | Which is at 72
+11:16.38 [TRACE] (ChartingState/goToSection#1310): Going too 27200 | 17 | Which is at 68
+11:30.56 [TRACE] (ChartingState/addNote#3331): 32200 from 12880
+11:30.56 [TRACE] (ChartingState/addNote#3337): adding note with 32200 from dummyArrow with data 6
+11:32.31 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 79.74975
+11:33.70 [TRACE] (ChartingState/addNote#3331): 32200 from 12880
+11:33.70 [TRACE] (ChartingState/addNote#3337): adding note with 32200 from dummyArrow with data 6
+11:34.81 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 79.49975
+11:34.83 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 79.24975
+11:34.90 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 78.99975
+11:35.47 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 78.74975
+11:35.48 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 78.49975
+11:35.50 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 78.24975
+11:35.51 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 77.99975
+11:35.52 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 77.74975
+11:35.57 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 77.49975
+11:38.51 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 79.49975
+11:38.52 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 79.24975
+11:38.54 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 78.99975
+11:38.56 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 78.74975
+11:38.85 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 78.49975
+11:38.89 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 78.24975
+11:38.93 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 77.99975
+11:43.99 [TRACE] (ChartingState/goToSection#1310): Going too 36800 | 23 | Which is at 92
+11:44.32 [TRACE] (ChartingState/goToSection#1310): Going too 38400 | 24 | Which is at 96
+11:44.66 [TRACE] (ChartingState/goToSection#1310): Going too 40000 | 25 | Which is at 100
+11:44.95 [TRACE] (ChartingState/goToSection#1310): Going too 41600 | 26 | Which is at 104
+11:45.14 [TRACE] (ChartingState/goToSection#1310): Going too 43200 | 27 | Which is at 108
+11:45.40 [TRACE] (ChartingState/goToSection#1310): Going too 44800 | 28 | Which is at 112
+11:45.61 [TRACE] (ChartingState/goToSection#1310): Going too 46400 | 29 | Which is at 116
+11:45.80 [TRACE] (ChartingState/goToSection#1310): Going too 48000 | 30 | Which is at 120
+11:46.00 [TRACE] (ChartingState/goToSection#1310): Going too 49600 | 31 | Which is at 124
+11:46.20 [TRACE] (ChartingState/goToSection#1310): Going too 51200 | 32 | Which is at 128
+11:46.40 [TRACE] (ChartingState/goToSection#1310): Going too 52800 | 33 | Which is at 132
+11:46.81 [TRACE] (ChartingState/goToSection#1310): Going too 54400 | 34 | Which is at 136
+11:47.28 [TRACE] (ChartingState/goToSection#1310): Going too 56000 | 35 | Which is at 140
+11:47.81 [TRACE] (ChartingState/goToSection#1310): Going too 57600 | 36 | Which is at 144
+11:48.23 [TRACE] (ChartingState/goToSection#1310): Going too 59200 | 37 | Which is at 148
+11:48.61 [TRACE] (ChartingState/goToSection#1310): Going too 60800 | 38 | Which is at 152
+11:49.01 [TRACE] (ChartingState/goToSection#1310): Going too 62400 | 39 | Which is at 156
+11:49.43 [TRACE] (ChartingState/goToSection#1310): Going too 64000 | 40 | Which is at 160
+11:49.74 [TRACE] (ChartingState/goToSection#1310): Going too 65600 | 41 | Which is at 164
+11:50.17 [TRACE] (ChartingState/goToSection#1310): Going too 67200 | 42 | Which is at 168
+11:50.62 [TRACE] (ChartingState/goToSection#1310): Going too 68800 | 43 | Which is at 172
+11:51.00 [TRACE] (ChartingState/goToSection#1310): Going too 70400 | 44 | Which is at 176
+11:51.37 [TRACE] (ChartingState/goToSection#1310): Going too 72000 | 45 | Which is at 180
+11:51.69 [TRACE] (ChartingState/goToSection#1310): Going too 73600 | 46 | Which is at 184
+11:52.06 [TRACE] (ChartingState/goToSection#1310): Going too 75200 | 47 | Which is at 188
+11:52.35 [TRACE] (ChartingState/goToSection#1310): Going too 76800 | 48 | Which is at 192
+11:52.68 [TRACE] (ChartingState/goToSection#1310): Going too 78400 | 49 | Which is at 196
+11:52.96 [TRACE] (ChartingState/goToSection#1310): Going too 80000 | 50 | Which is at 200
+11:53.35 [TRACE] (ChartingState/goToSection#1310): Going too 81600 | 51 | Which is at 204
+11:53.56 [TRACE] (ChartingState/goToSection#1310): Going too 83200 | 52 | Which is at 208
+11:53.83 [TRACE] (ChartingState/goToSection#1310): Going too 84800 | 53 | Which is at 212
+11:54.13 [TRACE] (ChartingState/goToSection#1310): Going too 86400 | 54 | Which is at 216
+11:54.39 [TRACE] (ChartingState/goToSection#1310): Going too 88000 | 55 | Which is at 220
+11:54.69 [TRACE] (ChartingState/goToSection#1310): Going too 89600 | 56 | Which is at 224
+11:54.94 [TRACE] (ChartingState/goToSection#1310): Going too 91200 | 57 | Which is at 228
+11:55.32 [TRACE] (ChartingState/goToSection#1310): Going too 92800 | 58 | Which is at 232
+12:01.54 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 235.24975
+12:01.55 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 234.99975
+12:01.56 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 234.74975
+12:01.58 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 234.49975
+12:01.60 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 234.24975
+12:02.33 [TRACE] (ChartingState/addNote#3331): 93500 from 37400
+12:02.33 [TRACE] (ChartingState/addNote#3337): adding note with 93500 from dummyArrow with data 3
+12:02.79 [TRACE] (ChartingState/addNote#3331): 93500 from 37400
+12:02.79 [TRACE] (ChartingState/addNote#3337): adding note with 93500 from dummyArrow with data 4
+12:15.28 [TRACE] (ChartingState/addNote#3331): 97500 from 39000
+12:15.28 [TRACE] (ChartingState/addNote#3337): adding note with 97500 from dummyArrow with data 0
+12:15.78 [TRACE] (ChartingState/addNote#3331): 97500 from 39000
+12:15.78 [TRACE] (ChartingState/addNote#3337): adding note with 97500 from dummyArrow with data 0
+12:18.06 [TRACE] (ChartingState/addNote#3331): 97420 from 38968
+12:18.06 [TRACE] (ChartingState/addNote#3337): adding note with 97420 from dummyArrow with data 0
+12:18.57 [TRACE] (ChartingState/addNote#3331): 97500 from 39000
+12:18.57 [TRACE] (ChartingState/addNote#3337): adding note with 97500 from dummyArrow with data 1
+12:29.10 [TRACE] (ChartingState/addNote#3331): 98600 from 39440
+12:29.10 [TRACE] (ChartingState/addNote#3337): adding note with 98600 from dummyArrow with data 3
+12:31.86 [TRACE] (ChartingState/addNote#3331): 99000 from 39600
+12:31.86 [TRACE] (ChartingState/addNote#3337): adding note with 99000 from dummyArrow with data 3
+13:07.51 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 265.99975
+13:07.52 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 265.74975
+13:07.55 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 265.49975
+13:07.56 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 265.24975
+13:07.58 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 264.99975
+13:07.60 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 264.74975
+13:07.63 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 264.49975
+13:09.40 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 264.24975
+13:09.44 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 263.99975
+13:09.47 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 263.74975
+13:09.83 [TRACE] (ChartingState/update#2067): SNAP - 16 INCREASE - -0.25 - GO TO BEAT 263.49975
+13:18.20 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+13:18.20 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+13:21.05 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+13:21.05 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+13:21.12 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+13:21.12 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+13:21.12 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+13:21.12 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+13:21.12 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+13:21.12 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+13:21.12 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+13:21.12 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+13:21.12 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+13:21.17 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+15:28.42 [TRACE] (PlayState/update#2085): we're fuckin ending the song 
+15:34.30 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-easy
+15:34.45 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial
+15:34.46 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-hard
+15:35.09 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-easy
+15:35.09 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up
+15:35.11 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-hard
+15:52.70 [INFO ] (FreeplayState/loadSongInFreePlay#494): Loading song heads up from week 1 into Free Play...
+15:53.42 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+15:53.42 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+15:57.23 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+15:57.24 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+15:57.30 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+15:57.30 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+15:57.30 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+15:57.30 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+15:57.30 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+15:57.30 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+15:57.30 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+15:57.30 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+15:57.30 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+15:59.35 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+18:00.54 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-easy
+18:00.60 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial
+18:00.66 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-hard
+18:02.88 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-easy
+18:02.96 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up
+18:03.02 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-hard
+18:44.81 [INFO ] (FreeplayState/loadSongInFreePlay#494): Loading song heads up from week 1 into Free Play...
+18:45.54 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+18:45.54 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+18:49.39 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+18:49.39 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+18:49.46 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+18:49.46 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+18:49.46 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+18:49.46 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+18:49.46 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+18:49.46 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+18:49.46 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+18:49.46 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+18:49.46 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+18:51.29 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+20:43.19 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-easy
+20:43.19 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial
+20:43.20 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-hard
+20:43.47 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-easy
+20:43.47 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up
+20:43.48 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-hard

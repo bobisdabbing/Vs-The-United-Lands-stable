@@ -1,0 +1,6 @@
+idle 0 301
+idleLoop 0 301
+singUP 0 301
+singRIGHT 0 301
+singLEFT 0 301
+singDOWN 0 301

@@ -1,0 +1,277 @@
+0:00.00 [INFO ] (Debug/onInitProgram#203): Debug logging initialized. Hello, developer.
+0:00.01 [INFO ] (Debug/onInitProgram#208): This is a RELEASE build.
+0:00.01 [INFO ] (Debug/onInitProgram#210): HaxeFlixel version: HaxeFlixel 4.10.0
+0:00.02 [INFO ] (Debug/onInitProgram#211): Friday Night Funkin' version: 0.2.7.1
+0:00.02 [INFO ] (Debug/onInitProgram#212): KadeEngine version: 1.8
+0:00.03 [INFO ] (ModCore/initialize#27): Initializing ModCore...
+0:00.04 [INFO ] (ModCore/getModIds#95): Scanning the mods folder...
+0:00.05 [INFO ] (ModCore/getModIds#97): Found 1 mods when scanning.
+0:00.06 [INFO ] (ModCore/loadModsById#37): Attempting to load 1 mods...
+0:00.07 [WARN ] Could not find mod icon file: "mods/introMod/_polymod_icon.png"
+0:00.08 [INFO ]  user specified CUSTOM
+0:00.08 [TRACE] (ModCoreBackend/new#167): Initialized custom asset loader backend.
+0:00.09 [WARN ] (ModCoreBackend/clearCache#173): Custom asset cache has been cleared.
+0:00.10 [ERROR] Preparing to load mod mods/introMod
+0:00.11 [ERROR] Done loading mod mods/introMod
+0:00.11 [TRACE] (ModCoreBackend/exists#178): Call to ModCoreBackend: exists(_polymod_pack.txt)
+0:00.12 [INFO ] (ModCore/loadModsById#67): Mod loading complete. We loaded 1 / 1 mods.
+0:00.12 [TRACE] (ModCore/loadModsById#70):   * Intro Mod v1.0.0 [introMod]
+0:00.13 [INFO ] (ModCore/loadModsById#73): Installed mods have replaced 1 images.
+0:00.14 [TRACE] (ModCore/loadModsById#75):   * images/KadeEngineLogo.png
+0:00.14 [INFO ] (ModCore/loadModsById#78): Installed mods have replaced 0 text files.
+0:00.15 [INFO ] (ModCore/loadModsById#83): Installed mods have replaced 0 music files.
+0:00.15 [INFO ] (ModCore/loadModsById#88): Installed mods have replaced 0 sound files.
+0:00.17 [TRACE] (TitleState/create#56): We loaded 0 assets into the default library
+0:11.27 [INFO ] (TitleState/skipIntro#446): Skipping intro...
+0:26.61 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-easy
+0:26.64 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial
+0:26.70 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-hard
+0:28.17 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-easy
+0:28.23 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up
+0:28.24 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-hard
+0:32.66 [INFO ] (FreeplayState/loadSongInFreePlay#494): Loading song heads up from week 1 into Free Play...
+0:33.40 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+0:33.40 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+0:37.96 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+0:37.99 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+0:38.14 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+0:38.14 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:38.15 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:38.15 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:38.16 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:38.17 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:38.17 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:38.18 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:38.19 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:41.03 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+0:50.81 [TRACE] (ChartingState/create#161): false
+0:50.82 [TRACE] (ChartingState/create#163): FlxAtlasFrames
+0:50.82 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+0:51.19 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up
+0:51.85 [TRACE] (ChartingState/addGrid#522): 640
+0:51.85 [TRACE] (ChartingState/addGrid#526): height of 0
+0:51.87 [TRACE] (ChartingState/create#261): goin
+0:51.87 [TRACE] (ChartingState/create#302): STRUCTS: 2
+0:51.91 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+0:51.99 [TRACE] (ChartingState/poggers#1788): FUCK YOU BITCH FUCKER CUCK SUCK BITCH 98
+0:52.00 [TRACE] (ChartingState/create#308): Song length in MS: 155204
+0:52.00 [TRACE] (ChartingState/create#326): LENGTH IN STEPS 1552 | LENGTH IN BEATS 388 | SECTIONS: 98
+0:52.01 [TRACE] (ChartingState/create#337): TARGET 155204
+0:54.56 [TRACE] (ChartingState/create#363): 154880
+0:55.88 [TRACE] (ChartingState/addEventsUI#849): 150
+0:55.88 [TRACE] (ChartingState/addEventsUI#864): bruh
+0:55.88 [TRACE] (ChartingState/addEventsUI#868): Event
+0:55.89 [TRACE] (ChartingState/addEventsUI#870): bruh
+0:55.89 [TRACE] (ChartingState/addEventsUI#872): bruh
+0:55.89 [TRACE] (ChartingState/addEventsUI#874): bruh
+0:55.90 [TRACE] (ChartingState/addEventsUI#876): bruh
+0:55.90 [TRACE] (ChartingState/addEventsUI#878): bruh
+0:55.91 [TRACE] (ChartingState/addEventsUI#880): bruh
+0:55.94 [TRACE] (ChartingState/addEventsUI#926): bruh
+0:55.94 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+0:55.98 [TRACE] (ChartingState/create#426): bruh
+0:55.98 [TRACE] (ChartingState/create#440): bruh
+0:55.99 [TRACE] (ChartingState/create#445): bruh
+0:55.99 [TRACE] (ChartingState/create#447): create
+0:57.05 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+0:57.06 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+1:01.36 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+1:01.37 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+1:04.02 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+1:04.04 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+1:04.11 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+1:04.12 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:04.12 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:04.13 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:04.13 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:04.14 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:04.15 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:04.15 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:04.16 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+1:04.23 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+2:09.83 [TRACE] (PauseSubState/destroy#261): destroying music for pauseeta
+2:11.15 [TRACE] (ChartingState/create#161): false
+2:11.16 [TRACE] (ChartingState/create#163): FlxAtlasFrames
+2:11.16 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+2:11.23 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up
+2:11.25 [TRACE] (ChartingState/addGrid#522): 640
+2:11.25 [TRACE] (ChartingState/addGrid#526): height of 1552
+2:11.26 [TRACE] (ChartingState/create#261): goin
+2:11.26 [TRACE] (ChartingState/create#302): STRUCTS: 2
+2:11.27 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+2:11.28 [TRACE] (ChartingState/poggers#1788): FUCK YOU BITCH FUCKER CUCK SUCK BITCH 98
+2:11.28 [TRACE] (ChartingState/create#308): Song length in MS: 155204
+2:11.29 [TRACE] (ChartingState/create#326): LENGTH IN STEPS 1552 | LENGTH IN BEATS 388 | SECTIONS: 98
+2:11.29 [TRACE] (ChartingState/create#337): TARGET 155204
+2:13.78 [TRACE] (ChartingState/create#363): 154880
+2:14.88 [TRACE] (ChartingState/addEventsUI#849): 150
+2:14.88 [TRACE] (ChartingState/addEventsUI#864): bruh
+2:14.88 [TRACE] (ChartingState/addEventsUI#868): Event
+2:14.89 [TRACE] (ChartingState/addEventsUI#870): bruh
+2:14.89 [TRACE] (ChartingState/addEventsUI#872): bruh
+2:14.90 [TRACE] (ChartingState/addEventsUI#874): bruh
+2:14.91 [TRACE] (ChartingState/addEventsUI#876): bruh
+2:14.92 [TRACE] (ChartingState/addEventsUI#878): bruh
+2:14.93 [TRACE] (ChartingState/addEventsUI#880): bruh
+2:14.97 [TRACE] (ChartingState/addEventsUI#926): bruh
+2:14.97 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+2:15.05 [TRACE] (ChartingState/create#426): bruh
+2:15.06 [TRACE] (ChartingState/create#440): bruh
+2:15.06 [TRACE] (ChartingState/create#445): bruh
+2:15.07 [TRACE] (ChartingState/create#447): create
+2:16.13 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+2:16.14 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+2:20.43 [TRACE] (MusicBeatState/onWindowFocusOut#225): Lost Focus
+2:34.15 [TRACE] (MusicBeatState/onWindowFocusIn#241): IM BACK!!!
+2:36.54 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+2:36.54 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+2:39.12 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+2:39.13 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+2:39.20 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+2:39.20 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:39.21 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:39.22 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:39.23 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:39.25 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:39.26 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:39.27 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:39.28 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+2:39.33 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+4:45.71 [TRACE] (PlayState/update#2085): we're fuckin ending the song 
+4:51.34 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-easy
+4:51.36 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial
+4:51.39 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-hard
+4:51.73 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-easy
+4:51.77 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up
+4:51.78 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-hard
+4:54.36 [INFO ] (FreeplayState/loadSongInFreePlay#494): Loading song heads up from week 1 into Free Play...
+4:55.14 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+4:55.15 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+4:59.26 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+4:59.26 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+4:59.33 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+4:59.33 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+4:59.34 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+4:59.34 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+4:59.35 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+4:59.35 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+4:59.36 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+4:59.37 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+4:59.37 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:01.09 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+5:24.55 [TRACE] (ChartingState/create#161): false
+5:24.55 [TRACE] (ChartingState/create#163): FlxAtlasFrames
+5:24.56 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+5:24.78 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-hard
+5:24.86 [TRACE] (ChartingState/addGrid#522): 640
+5:24.87 [TRACE] (ChartingState/addGrid#526): height of 1552
+5:24.99 [TRACE] (ChartingState/create#261): goin
+5:25.00 [TRACE] (ChartingState/create#302): STRUCTS: 2
+5:25.02 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+5:25.04 [TRACE] (ChartingState/poggers#1788): FUCK YOU BITCH FUCKER CUCK SUCK BITCH 98
+5:25.09 [TRACE] (ChartingState/create#308): Song length in MS: 155204
+5:25.10 [TRACE] (ChartingState/create#326): LENGTH IN STEPS 1552 | LENGTH IN BEATS 388 | SECTIONS: 98
+5:25.10 [TRACE] (ChartingState/create#337): TARGET 155204
+5:27.63 [TRACE] (ChartingState/create#363): 154880
+5:28.79 [TRACE] (ChartingState/addEventsUI#849): 150
+5:28.80 [TRACE] (ChartingState/addEventsUI#864): bruh
+5:28.80 [TRACE] (ChartingState/addEventsUI#868): Event
+5:28.81 [TRACE] (ChartingState/addEventsUI#870): bruh
+5:28.81 [TRACE] (ChartingState/addEventsUI#872): bruh
+5:28.82 [TRACE] (ChartingState/addEventsUI#874): bruh
+5:28.82 [TRACE] (ChartingState/addEventsUI#876): bruh
+5:28.82 [TRACE] (ChartingState/addEventsUI#878): bruh
+5:28.83 [TRACE] (ChartingState/addEventsUI#880): bruh
+5:28.85 [TRACE] (ChartingState/addEventsUI#926): bruh
+5:28.86 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+5:28.97 [TRACE] (ChartingState/create#426): bruh
+5:28.97 [TRACE] (ChartingState/create#440): bruh
+5:28.98 [TRACE] (ChartingState/create#445): bruh
+5:28.98 [TRACE] (ChartingState/create#447): create
+5:30.17 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+5:30.18 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+5:35.89 [TRACE] (MusicBeatState/onWindowFocusOut#225): Lost Focus
+5:44.68 [TRACE] (MusicBeatState/onWindowFocusIn#241): IM BACK!!!
+5:47.00 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+5:47.01 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+5:49.67 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+5:49.69 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+5:49.76 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+5:49.78 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:49.78 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:49.79 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:49.79 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:49.80 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:49.81 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:49.81 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:49.82 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+5:49.88 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+7:56.58 [TRACE] (PlayState/update#2085): we're fuckin ending the song 
+8:00.78 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-easy
+8:00.85 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial
+8:00.90 [INFO ] (Song/loadFromJson#83): Loading song JSON: tutorial/tutorial-hard
+8:02.46 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-easy
+8:02.50 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up
+8:02.53 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-hard
+8:06.97 [INFO ] (FreeplayState/loadSongInFreePlay#494): Loading song heads up from week 1 into Free Play...
+8:07.69 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+8:07.70 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+8:11.39 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+8:11.40 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+8:11.46 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+8:11.47 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:11.47 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:11.48 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:11.48 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:11.51 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:11.52 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:11.52 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:11.53 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:13.23 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+8:20.83 [TRACE] (ChartingState/create#161): false
+8:20.83 [TRACE] (ChartingState/create#163): FlxAtlasFrames
+8:20.84 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+8:20.90 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up-easy
+8:21.04 [TRACE] (ChartingState/addGrid#522): 640
+8:21.04 [TRACE] (ChartingState/addGrid#526): height of 1552
+8:21.05 [TRACE] (ChartingState/create#261): goin
+8:21.06 [TRACE] (ChartingState/create#302): STRUCTS: 2
+8:21.06 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+8:21.07 [TRACE] (ChartingState/poggers#1788): FUCK YOU BITCH FUCKER CUCK SUCK BITCH 98
+8:21.08 [TRACE] (ChartingState/create#308): Song length in MS: 155204
+8:21.08 [TRACE] (ChartingState/create#326): LENGTH IN STEPS 1552 | LENGTH IN BEATS 388 | SECTIONS: 98
+8:21.09 [TRACE] (ChartingState/create#337): TARGET 155204
+8:23.79 [TRACE] (ChartingState/create#363): 154880
+8:24.70 [TRACE] (ChartingState/addEventsUI#849): 150
+8:24.70 [TRACE] (ChartingState/addEventsUI#864): bruh
+8:24.71 [TRACE] (ChartingState/addEventsUI#868): Event
+8:24.71 [TRACE] (ChartingState/addEventsUI#870): bruh
+8:24.72 [TRACE] (ChartingState/addEventsUI#872): bruh
+8:24.72 [TRACE] (ChartingState/addEventsUI#874): bruh
+8:24.73 [TRACE] (ChartingState/addEventsUI#876): bruh
+8:24.73 [TRACE] (ChartingState/addEventsUI#878): bruh
+8:24.74 [TRACE] (ChartingState/addEventsUI#880): bruh
+8:24.76 [TRACE] (ChartingState/addEventsUI#926): bruh
+8:24.77 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+8:24.79 [TRACE] (ChartingState/create#426): bruh
+8:24.80 [TRACE] (ChartingState/create#440): bruh
+8:24.80 [TRACE] (ChartingState/create#445): bruh
+8:24.80 [TRACE] (ChartingState/create#447): create
+8:26.07 [TRACE] (ChartingState/recalculateAllSectionTimes#3216): RECALCULATING SECTION TIMES
+8:26.08 [TRACE] (ChartingState/regenerateLines#467): removed lines and texts
+8:30.86 [TRACE] (MusicBeatState/onWindowFocusOut#225): Lost Focus
+8:37.27 [TRACE] (MusicBeatState/onWindowFocusIn#241): IM BACK!!!
+8:40.38 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+8:40.39 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+8:43.23 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+8:43.38 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+8:43.53 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+8:43.54 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:43.54 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:43.55 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:43.56 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:43.56 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:43.57 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:43.57 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:43.58 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+8:43.63 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit

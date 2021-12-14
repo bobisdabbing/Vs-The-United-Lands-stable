@@ -1,0 +1,60 @@
+0:00.00 [INFO ] (Debug/onInitProgram#203): Debug logging initialized. Hello, developer.
+0:00.00 [INFO ] (Debug/onInitProgram#208): This is a RELEASE build.
+0:00.00 [INFO ] (Debug/onInitProgram#210): HaxeFlixel version: HaxeFlixel 4.10.0
+0:00.01 [INFO ] (Debug/onInitProgram#211): Friday Night Funkin' version: 0.2.7.1
+0:00.01 [INFO ] (Debug/onInitProgram#212): KadeEngine version: 1.8
+0:00.02 [INFO ] (ModCore/initialize#27): Initializing ModCore...
+0:00.02 [INFO ] (ModCore/getModIds#95): Scanning the mods folder...
+0:00.03 [INFO ] (ModCore/getModIds#97): Found 1 mods when scanning.
+0:00.03 [INFO ] (ModCore/loadModsById#37): Attempting to load 1 mods...
+0:00.04 [WARN ] Could not find mod icon file: "mods/introMod/_polymod_icon.png"
+0:00.04 [INFO ]  user specified CUSTOM
+0:00.04 [TRACE] (ModCoreBackend/new#167): Initialized custom asset loader backend.
+0:00.05 [WARN ] (ModCoreBackend/clearCache#173): Custom asset cache has been cleared.
+0:00.05 [ERROR] Preparing to load mod mods/introMod
+0:00.06 [ERROR] Done loading mod mods/introMod
+0:00.06 [TRACE] (ModCoreBackend/exists#178): Call to ModCoreBackend: exists(_polymod_pack.txt)
+0:00.06 [INFO ] (ModCore/loadModsById#67): Mod loading complete. We loaded 1 / 1 mods.
+0:00.08 [TRACE] (ModCore/loadModsById#70):   * Intro Mod v1.0.0 [introMod]
+0:00.09 [INFO ] (ModCore/loadModsById#73): Installed mods have replaced 1 images.
+0:00.10 [TRACE] (ModCore/loadModsById#75):   * images/KadeEngineLogo.png
+0:00.11 [INFO ] (ModCore/loadModsById#78): Installed mods have replaced 0 text files.
+0:00.11 [INFO ] (ModCore/loadModsById#83): Installed mods have replaced 0 music files.
+0:00.12 [INFO ] (ModCore/loadModsById#88): Installed mods have replaced 0 sound files.
+0:00.13 [TRACE] (TitleState/create#56): We loaded 0 assets into the default library
+0:09.18 [INFO ] (TitleState/skipIntro#446): Skipping intro...
+0:36.06 [INFO ] (Song/loadFromJson#83): Loading song JSON: heads-up/heads-up
+0:37.97 [INFO ] (PlayState/create#370): Searching for mod chart? (false) at assets/data/songs/heads-up/modchart.lua
+0:37.98 [INFO ] (Character/parseDataFile#438): Generating character (gf) from JSON data...
+0:45.26 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+0:45.34 [TRACE] (NoteskinHelpers/generateNoteskinSprite#60): bruh momento
+0:45.43 [TRACE] (NoteskinHelpers/generatePixelSprite#78): bruh momento
+0:45.46 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:45.46 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:45.47 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:45.47 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:45.48 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:45.49 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:45.49 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:45.50 [TRACE] (PlayState/generateStaticArrows#1797): FlxAtlasFrames
+0:48.41 [TRACE] (PlayState/generateSong#1738): whats the fuckin shit
+1:11.22 [TRACE] (PlayState/closeSubState#1910): pause thingyt
+1:11.31 [TRACE] (OptionsMenu/switchCat#319): Changed cat: 0
+1:12.49 [TRACE] (OptionsMenu/selectOption#334): Changed opt: 0
+1:12.50 [TRACE] (OptionsMenu/selectOption#336): Bounds: 114,640
+1:13.21 [TRACE] (OptionsMenu/selectOption#334): Changed opt: 1
+1:13.22 [TRACE] (OptionsMenu/selectOption#336): Bounds: 114,640
+1:13.39 [TRACE] (OptionsMenu/selectOption#334): Changed opt: 2
+1:13.39 [TRACE] (OptionsMenu/selectOption#336): Bounds: 114,640
+1:13.52 [TRACE] (OptionsMenu/selectOption#334): Changed opt: 3
+1:13.52 [TRACE] (OptionsMenu/selectOption#336): Bounds: 114,640
+1:13.67 [TRACE] (OptionsMenu/selectOption#334): Changed opt: 4
+1:13.67 [TRACE] (OptionsMenu/selectOption#336): Bounds: 114,640
+1:13.83 [TRACE] (OptionsMenu/selectOption#334): Changed opt: 5
+1:13.84 [TRACE] (OptionsMenu/selectOption#336): Bounds: 114,640
+1:35.57 [TRACE] (OptionsMenu/update#560): New text: > BotPlay: < on >
+1:36.49 [TRACE] (PlayState/closeSubState#1910): pause thingyt
+1:36.50 [TRACE] (PlayState/closeSubState#1913): pause thingyt
+1:37.57 [TRACE] (PauseSubState/destroy#261): destroying music for pauseeta
+2:29.51 [TRACE] (PlayState/update#2085): we're fuckin ending the song 
+2:31.56 [TRACE] (PauseSubState/destroy#261): destroying music for pauseeta
